@@ -5,20 +5,23 @@ Een 2D racer met custom karakters en autos, en hopelijk ook een aantal verschill
 
 Om te beginnen een local multiplayer, maar miss uit te breiden naar een app/flash-spel/server-iets.
 
+Geschreven met Pygame
+
 Personen:
-Marius
-Warius
-Quincy
-Baby Quincy
-Pickle Rees
-M'Boppe
+- Marius
+- Warius
+- Quincy
+- Baby Quincy
+- Pickle Rees
+- M'Boppe
+- Nils
 
 Karts:
-Zwichtmobiel
-Marius Mobiel
-Zwaarbus 17
-Zwaarbus 18
-Bestuurslimo 72
-Bestuurslimo 73
-Een tank
+- Zwichtmobiel
+- Marius Mobiel
+- Zwaarbus 17
+- Zwaarbus 18
+- Bestuurslimo 72
+- Bestuurslimo 73
+- Een tank
 
